@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace calc_level2
+{
+    internal sealed class Division : Calculation
+    {
+        public override int Operate(int x, int y)
+        {
+            int res = x / y;
+            Console.WriteLine($"Division : First number = {x} | Second number = {y} | Result = {res}");
+            return res;
+        }
+    }
+}

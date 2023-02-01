@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\bin\Debug\net6.0\calc_level2.exe
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\bin\Debug\net6.0\calc_level2.deps.json
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\bin\Debug\net6.0\calc_level2.runtimeconfig.json
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\bin\Debug\net6.0\calc_level2.dll
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\bin\Debug\net6.0\calc_level2.pdb
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\obj\Debug\net6.0\calc_level2.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\obj\Debug\net6.0\calc_level2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\obj\Debug\net6.0\calc_level2.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\obj\Debug\net6.0\calc_level2.AssemblyInfo.cs
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\obj\Debug\net6.0\calc_level2.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\obj\Debug\net6.0\calc_level2.dll
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\obj\Debug\net6.0\refint\calc_level2.dll
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\obj\Debug\net6.0\calc_level2.pdb
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\obj\Debug\net6.0\calc_level2.genruntimeconfig.cache
+C:\Users\rusla\source\repos\Abstracttttt\Abstracttttt\obj\Debug\net6.0\ref\calc_level2.dll
